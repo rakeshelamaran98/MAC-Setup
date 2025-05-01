@@ -3,6 +3,7 @@
 Download Links:
 - UTM: https://mac.getutm.app
 - Kali: https://www.kali.org/get-kali/#kali-platforms
+- Metasploitable: https://sourceforge.net/projects/metasploitable/ (or) From Onedrive
 - Refer to this Blog For Setting Up Kali Linux on UTM, 
 - https://medium.com/@cybersecfe/how-to-install-kali-linux-on-utm-on-m2-m1-macbook-bf04c6ce7031
 
