@@ -1,13 +1,13 @@
-Requirements: UTM, Kali Linux, Metasploitable
+# Requirements: UTM, Kali Linux, Metasploitable
 
-Download UTM Here: https://mac.getutm.app
-
-Refer this Blog For Setting Up Kali Linux on UTM, 
+Download Links:
+- UTM: https://mac.getutm.app
+- Kali: https://www.kali.org/get-kali/#kali-platforms
+- Refer to this Blog For Setting Up Kali Linux on UTM, 
 - https://medium.com/@cybersecfe/how-to-install-kali-linux-on-utm-on-m2-m1-macbook-bf04c6ce7031
 
 ---
-Steps to Setup Metasploitable 2 on UTM
-
+# Steps to Setup Metasploitable 2 on UTM:
 
 - Download Metasploitable-2 Linux and Extract image
 - Open UTM and create a new VM (button with symbol +) . Select Emulate.
