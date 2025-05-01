@@ -20,6 +20,14 @@ Download Links:
 - In the Drives section, click on New Drive, and then on Import.
 - Go to your Metasploitable-2 folder and select the file ending in .vmdk
 - Click Save and run your new Metasploitable-2
+- Set Your System Like this,
+
+<img width="801" alt="Screenshot 2025-05-01 at 3 57 49 PM" src="https://github.com/user-attachments/assets/7bf2c125-e39e-4100-a687-c0665ae90555" />
+
+- Set your Network Like this,
+<img width="801" alt="Screenshot 2025-05-01 at 3 58 43 PM" src="https://github.com/user-attachments/assets/c2ce35c8-4a4a-4373-becf-3e700f32e4f6" />
+
 - After you clicked on Start your machine, several process will start running.
 - At the end you will see a msg Login with msfadmin/msfadmin to get started.
 - Use msfadmin as both the username and password.
+
